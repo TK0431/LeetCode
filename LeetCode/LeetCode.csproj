@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="C0020.cs" />
+    <Compile Include="C0038.cs" />
+    <Compile Include="C0035.cs" />
     <Compile Include="C0028.cs" />
     <Compile Include="C0027.cs" />
     <Compile Include="C0026.cs" />

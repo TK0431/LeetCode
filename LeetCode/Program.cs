@@ -52,8 +52,23 @@ namespace LeetCode
 
             #region 0028
 
-            C0028 c = new C0028();
-            Console.WriteLine(c.StrStr("abc", ""));
+            //C0028 c = new C0028();
+            //Console.WriteLine(c.StrStr("abc", ""));
+
+            #endregion
+
+            #region 0035
+
+            //C0035 c = new C0035();
+            //int[] arr = new int[] { 1, 3 };
+            //Console.WriteLine(c.SearchInsert(arr,2));
+
+            #endregion
+
+            #region 0038
+
+            C0038 c = new C0038();
+            Console.WriteLine(c.CountAndSay(6));
 
             #endregion
 
